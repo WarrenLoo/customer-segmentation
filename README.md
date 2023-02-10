@@ -5,6 +5,7 @@
  USes pandas to read the csv file in the dataset folder
  
  ## EDA
+ ![img](/images/gitcat.jpg)
  
  
  
