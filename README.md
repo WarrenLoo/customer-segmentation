@@ -5,7 +5,8 @@
  USes pandas to read the csv file in the dataset folder
  
  ## EDA
- ![img](/images/gitcat.jpg)
+ ![img](/images/Gender versus profession.jpg)
+ ![img](/images/Gender Versus Segmentation.jpg)
  
  
  
